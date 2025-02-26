@@ -87,7 +87,7 @@
 
                         <a class="link-list__link" href="#">FREE RESOURCE</a>
 
-                        <a class="link-list__link" href="#">ONLINE COURSE</a>
+                        <a class="link-list__link" href="{{ route('course') }}">ONLINE COURSE</a>
 
                         <a class="link-list__link" href="{{ route('contact') }}">CONTACT</a>
 
